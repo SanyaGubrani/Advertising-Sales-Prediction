@@ -4,7 +4,7 @@
 This project aims to predict sales based on advertising data using machine learning techniques. It analyzes the relationship between advertising spending across different media channels (TV, radio, newspaper) and the resulting sales figures.
 
 ## Dataset
-The dataset is sourced from kaggle (https://www.kaggle.com/datasets/yasserh/advertising-sales-dataset)[Advertising Sales Dataset]. It contains information about advertising budgets for TV, radio, and newspaper, along with corresponding sales figures.
+The dataset is sourced from [Advertising Sales Dataset](https://www.kaggle.com/datasets/yasserh/advertising-sales-dataset) on Kaggle. It contains information about advertising budgets for TV, radio, and newspaper, along with corresponding sales figures.
 
 ## Files
 - **notebook.ipynb**: Jupyter Notebook containing the code and analysis for the project.
