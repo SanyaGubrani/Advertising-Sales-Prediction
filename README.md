@@ -18,7 +18,7 @@ The dataset is sourced from [Advertising Sales Dataset](https://www.kaggle.com/d
 ## Usage
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the project directory: `cd Advertising-Sales-Prediction`
-3. Install dependencies: `pip install -r requirements.txt`
+3. Install dependencies
 4. Open and run the Jupyter Notebook: `jupyter notebook notebook.ipynb`
 
 ## Results
